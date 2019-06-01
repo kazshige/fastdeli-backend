@@ -5,7 +5,7 @@ FastDeli is a react-native application for online food purchase and delivery ser
 
 ## Application Features 
 
-Please click this link for the details; 
+Please click the link for more details 
 [Fastdeli README](https://github.com/kazshige/Fastdeli/blob/master/README.md)
 
 
